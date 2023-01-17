@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  integracao-cloudwatch:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-01-17T15:03:21.848788748-03:00"
+    description: A Helm chart for integrate Prometheus AlertManager with TCloudWatch
+    digest: bdfe8191acacb00ad5edd64894dba70d74203935da48f4dfabd00a87235e73f8
+    icon: https://raw.githubusercontent.com/cloud104/tks/master/docs/logo.png?token=GHSAT0AAAAAABVDCS2RCKYILIQWKXO6T6J2Y6G5NUQ
+    name: integracao-cloudwatch
+    type: application
+    urls:
+    - https://github.com/gfalves87/teste-chart/integracao-cloudwatch-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-17T15:03:21.832229242-03:00"
