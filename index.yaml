@@ -10,6 +10,6 @@ entries:
     name: integracao-cloudwatch
     type: application
     urls:
-    - https://github.com/gfalves87/teste-chart/integracao-cloudwatch-0.1.0.tgz
+    - https://gfalves87.github.io/teste-chart/integracao-cloudwatch-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-17T15:03:21.832229242-03:00"
